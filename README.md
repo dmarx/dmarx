@@ -3,7 +3,7 @@
 
 
 [![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?color=brightgreen&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
-[![CrossValidated](https://img.shields.io/stackexchange/CrossValidated/r/8451?color=green&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
+[![CrossValidated](https://img.shields.io/stackexchange/CrossValidated/r/8451?&color=green&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
 
 
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)
