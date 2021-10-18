@@ -1,8 +1,8 @@
-### Hi there 👋 - I'm David! (He/Him)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi there! I'm David (He/Him)
 
 Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
 
-Formerly at ![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=flat-square&logo=microsoft) and ![Amazon TRMS](https://img.shields.io/static/v1?style=flat-square&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=). 
+Formerly at: ![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=flat-square&logo=microsoft) ![Amazon TRMS](https://img.shields.io/static/v1?style=flat-square&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=). 
 
 Currently taking a sabbatical to focus on my independent research. Open to contract/part-time opportunities (I could be convinced to take the right FT gig) and collaborations.
 
