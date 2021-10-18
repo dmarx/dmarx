@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marx-b0a5bb14/)
 [![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
 [![CrossValidated](https://img.shields.io/stackexchange/CrossValidated/r/8451?&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
-
+[![DataScience](https://img.shields.io/stackexchange/DataScience/r/4683?&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
 
 Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. 
 
