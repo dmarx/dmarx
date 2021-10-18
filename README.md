@@ -1,4 +1,4 @@
-### Hi there 👋 - David (He/Him)
+### Hi there 👋 - I'm David! (He/Him)
 
 Machine learning researcher / ML Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
 
