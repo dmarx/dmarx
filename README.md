@@ -2,7 +2,7 @@
 
 
 
-[![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?color=brightgreen&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
+[![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?&color=brightgreen&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
 [![CrossValidated](https://img.shields.io/stackexchange/CrossValidated/r/8451?&color=green&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
 
 
