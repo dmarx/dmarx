@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm David! (He/Him)
 
-Machine learning researcher / ML Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
+Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
 
 Formerly at ![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=flat-square&logo=microsoft) and ![Amazon TRMS](https://img.shields.io/static/v1?style=flat-square&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=). 
 
