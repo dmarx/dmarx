@@ -13,7 +13,7 @@ Formerly @Microsoft and @Amazon, taking a sabbatical to pursue independent resea
 
 
 
-### Research interests
+### Broad Research Interests
 
 * Topolgical and geometric applications to machine learning
 * Representation learning
@@ -21,13 +21,14 @@ Formerly @Microsoft and @Amazon, taking a sabbatical to pursue independent resea
 * Inductive priors
 * Learning theory
 
-### Current areas of research focus
+### Current Areas of Research Focus
 
 * Modeling with implicit representations and operators
 * Composable representations
 * Scale-agnostic learning
+* Artistic applications of multi-modal generative models
 
-### Old blog
+### Old Blog
 
 * http://dmarx.github.io/posts/
 
