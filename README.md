@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 - David (He/Him)
 
-I'm a machine learning researcher / ML Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
+Machine learning researcher / ML Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days.
 
-Formerly @Microsoft and @Amazon, taking a sabbatical to pursue independent research. Open to opportunities (primarily contract, but I could be convinced to take the right FT gig) and collaborations.
+Formerly at ![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=flat-square&logo=microsoft) and ![Amazon TRMS](https://img.shields.io/static/v1?style=flat-square&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=). 
+
+Currently taking a sabbatical to focus on my independent research. Open to contract/part-time opportunities (I could be convinced to take the right FT gig) and collaborations.
 
 
 [![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?color=brightgreen&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
