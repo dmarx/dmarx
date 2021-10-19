@@ -17,6 +17,8 @@ Currently taking a sabbatical to focus on independent research. Open to contract
 
 ---
 
+![github stats for dmarx](https://github-readme-stats.vercel.app/api?username=dmarx)
+
 ### Broad Research Interests
 
 * Topolgical and geometric applications to machine learning
