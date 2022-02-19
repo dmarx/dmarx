@@ -13,7 +13,7 @@
 
 Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. 
 
-Currently taking a sabbatical to focus on independent research. Open to contract/part-time opportunities (I could be convinced to take the right FT gig) and collaborations. Formerly at: 
+Creator/maintainer/curator of https://github.com/pytti-tools. Open to contract/part-time opportunities (I could be convinced to take the right FT gig) and collaborations. Formerly at: 
 
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
 [![Amazon TRMS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=)](https://www.amazon.jobs/en-gb/teams/transaction-risk-management-systems)
