@@ -11,7 +11,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)
 
-Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. 
+Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. I'm passionate about making quality tools that empower AI practitioners and generative artists.
 
 Creator/maintainer/curator of https://github.com/pytti-tools. Open to contract/part-time opportunities (I could be convinced to take the right FT gig) and collaborations. Formerly at: 
 
@@ -35,6 +35,7 @@ Creator/maintainer/curator of https://github.com/pytti-tools. Open to contract/p
 
 * Modeling with implicit representations and operators
 * Composable representations
+* Latent-space manipulation
 * Scale-agnostic learning
 * Artistic applications of multi-modal generative models
 
