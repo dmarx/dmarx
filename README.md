@@ -13,7 +13,7 @@
 
 Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. Creator/maintainer/curator of https://github.com/pytti-tools. I'm passionate about making quality tools that empower AI practitioners and generative artists. 
 
-I'm a researcher/developer who is supported financially through employment with stability ai. Functionally I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
+I'm a researcher/developer who is supported financially through employment with [stability.ai](https://stability.ai/). Functionally, I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
 
 
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
