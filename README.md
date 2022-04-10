@@ -16,6 +16,20 @@ Deep learning researcher / Machine Learning Engineer / Data Scientist / Statisti
 I'm a researcher/developer who is supported financially through employment with [stability.ai](https://stability.ai/). Functionally, I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
 
 
+Some projects I'm currently or recently involved with: 
+
+* maintaining and extending pytti-tools
+* model design for a forthcoming AI art model
+* generative audio research planning and implementation
+* adding an implementation of the FILIP contrastive learning algorithm to the eleutherai/magiCARP project in support of computational narratology research out of Georgia Tech
+* Implementing notebooks to facilitate AI artist use of pre-trained research models, including FiLM and denoising defusion
+* coordinating a minitorch study group
+* building a library to facilitate working with pre-trained CLIP-like models
+* building a library to facilitate working with and management of messy research code
+* working with hackathon organizers to build data collection tools that will be used to turn hackathon activities into training data for code generative language modeling
+
+---
+
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
 [![Amazon TRMS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+TRMS&color=222222&logo=Amazon&logoColor=FF9900&label=)](https://www.amazon.jobs/en-gb/teams/transaction-risk-management-systems)
 [![Elder Research](https://img.shields.io/badge/Elder_Research-lightgray?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABiVBMVEVHcEwVLVKLH0yKTUGIK0zb0tbapr7f3t7HAHK6AGPtAFGLWToLKE8MXn0Clq6zkDG5aToPQGLhy9HaB0LFK0Vgbn6Fdlb05uMAm7IChJ4De5VZdormaIYAXXsIR2jnDk4DYn7ab4XMAI/rK0TpHErWtCfjNkT6xSzobDwDXntrtcIDZ4MCdI/////pF0j5mAne4unx7Kj/3BHf3+DTXUirwcnfOmDxZTb6qRl6iF7wdzT4lxnoE0zGbUfuuWwfmK4dfJXudzHDYkfrFEzrL0MCXnvxZTDf3t7qBEjxTjdRip0Ajaf/kA7/sg4MfJb/pAbf3t7i5OTnvBspc428b0L/RwBFllK3bUbf3t4AWRrZ7//tcS86gD16dFbMfTxkn12YsUo7ZTzXejW2vjbHaUXd5fDgbDnf3t7XpTvIti75jR1utF3f3t6IYk726+jf3t5ChUIbb1yIkVtQqWkDg5rzq0PQPUu1UURDhBjclDbp2qvjhS0uiFupbEmfW0UOjZvsh3z///zd6ORd8CVjAAAAg3RSTlMABiYnExQNIAEBAzEiDQlUaD0WEGhRUxMJOE9NF01ZDHlJAR8SRKtKhCtBgmUGBg4PFCAQ0iljyWI8x1pN0UNsjsiyNWBViD0MWExAEyaoDy8fRkL6Ad3+EAYMlVyK8e99GMyR3h7XHp97T9otjx8OoVEg56A9eYMDoRfPwP3JnRUMD7ObCdEAAACzSURBVBjTY2DADkKrGjyUEFz/oMyMymhPFRjfNzk7vjY8rtpNGcL3SSgOK4jNrQtJcpEHCxTV18REBjYllqeUOYMFvEsKKxjYIxiy0pxs9IB8XXu/4Mb8nPSoUkdbMxmggLiWg1ceu3tAqp2ViaIQSIuEjisDA7sxg7W5mjDEGkltTQZ2A30LDREuiACflIKsqaGRugATzGW8gnLSlqr8zJxwtzPyiIpxs3Ag+46VDYe3GQC5kCFZtC4iSwAAAABJRU5ErkJggg==)](https://www.elderresearch.com/)
