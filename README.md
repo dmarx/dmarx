@@ -21,9 +21,9 @@ Some projects I'm currently or recently involved with:
 * maintaining and extending [pytti-tools](https://pytti-tools.github.io/pytti-book/intro.html)
 * model design for a forthcoming AI art model
 * generative audio research planning and implementation
-* adding an implementation of the FILIP contrastive learning algorithm to the [eleutherai/magiCARP](https://github.com/EleutherAI/magiCARP) project in support of computational narratology research out of Georgia Tech
+* adding an implementation of the FILIP contrastive learning algorithm to the [eleutherai/magiCARP](https://github.com/EleutherAI/magiCARP) project in support of computational narratology research out of [Georgia Tech](http://eilab.gatech.edu/)
 * Implementing notebooks to facilitate AI artist use of pre-trained research models, including [FiLM](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb) and [blended defusion](https://colab.research.google.com/github/pytti-tools/blended-diffusion/blob/dev/PyTTI-Tools%20-%20Blended%20Diffusion.ipynb)
-* coordinating a minitorch study group
+* coordinating a [minitorch](https://minitorch.github.io/) study group
 * building a library to facilitate working with [pre-trained CLIP-like models](https://github.com/dmarx/Multi-Modal-Comparators)
 * building a library to facilitate working with and management of [messy research code](https://github.com/dmarx/not-a-package-manager)
 * working with hackathon organizers to build data collection tools that will be used to turn hackathon activities into training data for code generative language modeling
