@@ -26,7 +26,7 @@ Some projects I'm currently or recently involved with:
 * coordinating a [minitorch](https://minitorch.github.io/) study group
 * building a library to facilitate working with [pre-trained CLIP-like models](https://github.com/dmarx/Multi-Modal-Comparators)
 * building a library to facilitate working with and management of [messy research code](https://github.com/dmarx/not-a-package-manager)
-* working with hackathon organizers to build data collection tools that will be used to turn hackathon activities into training data for code generative language modeling
+* working with researchers to build data collection tools that will be used to turn hackathon activities into training data for code generative language modeling
 
 ---
 
