@@ -4,9 +4,11 @@
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marx-b0a5bb14/)
 
-Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. Creator/maintainer/curator of https://github.com/pytti-tools. I'm passionate about making quality tools that empower AI practitioners and generative artists. 
+Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
 
-I'm a researcher/developer at [stability.ai](https://stability.ai/)/[eleuther.ai](https://www.eleuther.ai/)/. Functionally, I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
+I'm passionate about making quality tools that empower AI practitioners and generative artists. 
+
+I'm an ML research engineer at [stability.ai](https://stability.ai/) and [eleuther.ai](https://www.eleuther.ai/). Functionally, I'm an independent open source developer operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
 
 
 Some projects I'm currently or recently involved with: 
