@@ -1,19 +1,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi there! I'm David (He/Him) ![Github Stars](https://img.shields.io/github/stars/dmarx?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social) ![Github Followers](https://img.shields.io/github/followers/dmarx?style=social)
 
-
-[![StackOverflow](https://img.shields.io/stackexchange/StackOverflow/r/819544?&style=plastic)](https://stackoverflow.com/users/819544/david-marx)
-[![CrossValidated](https://img.shields.io/stackexchange/CrossValidated/r/8451?&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
-[![DataScience](https://img.shields.io/stackexchange/DataScience/r/4683?&style=plastic)](https://stats.stackexchange.com/users/8451/david-marx)
-
-
+[![Twitter](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marx-b0a5bb14/)
 
-[![Twitter](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)](https://img.shields.io/twitter/follow/DigThatData?style=social&label=@DigThatData)
-
 Deep learning researcher / Machine Learning Engineer / Data Scientist / Statistician / Whatever-the-hell-we're-calling-my-"unicorn"-skillset-these-days. Creator/maintainer/curator of https://github.com/pytti-tools. I'm passionate about making quality tools that empower AI practitioners and generative artists. 
 
-I'm a researcher/developer who is supported financially through employment with [stability.ai](https://stability.ai/). Functionally, I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
+I'm a researcher/developer at [stability.ai](https://stability.ai/)/[eleuther.ai](https://www.eleuther.ai/)/. Functionally, I'm basically a free agent operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
 
 
 Some projects I'm currently or recently involved with: 
