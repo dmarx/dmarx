@@ -4,15 +4,19 @@
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marx-b0a5bb14/)
 
-Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
-
 I'm passionate about making quality tools that empower AI practitioners and generative artists. 
 
-I'm an ML research engineer at [stability.ai](https://stability.ai/) and [eleuther.ai](https://www.eleuther.ai/). Functionally, I'm an independent open source developer operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML. 
+
+I'm an ML research engineer at [stability.ai](https://stability.ai/) and [eleuther.ai](https://www.eleuther.ai/). Functionally, I'm an independent open source developer operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML.
+
+Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
+
+
 
 
 Some projects I'm currently or recently involved with: 
 
+* Shepherding the launch of the Stable Diffusion API and accompanying infra and tooling
 * inventing and building cutting edge, state of the art, AI animation tools and techniques
 * working with electronic musicians and VJs to advance audio-reactive animation research
 * maintaining and extending [pytti-tools](https://pytti-tools.github.io/pytti-book/intro.html)
