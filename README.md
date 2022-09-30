@@ -12,10 +12,9 @@ I'm an ML research engineer at [stability.ai](https://stability.ai/) and [eleuth
 Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
 
 
-
-
 Some projects I'm currently or recently involved with: 
 
+* Invented a technique for generating a multi-scene music video from audio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
 * Shepherding the launch of the Stable Diffusion API and accompanying infra and tooling
 * inventing and building cutting edge, state of the art, AI animation tools and techniques
 * working with electronic musicians and VJs to advance audio-reactive animation research
