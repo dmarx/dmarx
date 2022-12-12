@@ -14,8 +14,8 @@ Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab
 
 Some projects I'm currently or recently involved with: 
 
+* Developing [tools](https://https://github.com/dmarx/keyframed) to facilitate parameterizing complex, multi-scene animation sequences
 * Invented a technique for generating a multi-scene music video from audio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
-* Shepherding the launch of the Stable Diffusion API and accompanying infra and tooling
 * inventing and building cutting edge, state of the art, AI animation tools and techniques
 * working with electronic musicians and VJs to advance audio-reactive animation research
 * maintaining and extending [pytti-tools](https://pytti-tools.github.io/pytti-book/intro.html)
@@ -24,8 +24,7 @@ Some projects I'm currently or recently involved with:
 * working with researchers to build data collection tools that will be used to turn hackathon activities into training data for code generative language modeling
 * Implementing notebooks to facilitate AI artist use of pre-trained research models, including [FiLM](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb) and [blended defusion](https://colab.research.google.com/github/pytti-tools/blended-diffusion/blob/dev/PyTTI-Tools%20-%20Blended%20Diffusion.ipynb)
 * model design for a forthcoming AI art model
-* generative audio research planning and implementation
-* adding an implementation of the FILIP contrastive learning algorithm to the [eleutherai/magiCARP](https://github.com/EleutherAI/magiCARP) project in support of computational narratology research out of [Georgia Tech](http://eilab.gatech.edu/)
+* Shepherding the launch of the Stable Diffusion API and accompanying infra and tooling (public SDK, CI/CD, etc.) as engineering lead through the launch of the DreamStudio product
 ---
 
 [![Microsoft WWL](https://img.shields.io/badge/Microsoft_WWL-258ffa?style=for-the-badge&logo=microsoft)](https://docs.microsoft.com/en-us/learn/)
