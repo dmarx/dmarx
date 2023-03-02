@@ -14,7 +14,7 @@ Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab
 
 Some projects I'm currently or recently involved with: 
 
-* Developing [tools](https://https://github.com/dmarx/keyframed) to facilitate parameterizing complex, multi-scene animation sequences
+* Developing [tools](https://github.com/dmarx/keyframed) to facilitate parameterizing complex, multi-scene animation sequences
 * Invented a technique for generating a multi-scene music video from audio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
 * inventing and building cutting edge, state of the art, AI animation tools and techniques
 * working with electronic musicians and VJs to advance audio-reactive animation research
