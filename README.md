@@ -7,7 +7,7 @@
 I'm passionate about making quality tools that empower AI practitioners and generative artists. 
 
 
-I'm an ML research engineer at [stability.ai](https://stability.ai/) and [eleuther.ai](https://www.eleuther.ai/). Functionally, I'm an independent open source developer operating under a general mandate to "do cool shit" as long as it falls under the broad scope of contributing to open source ML.
+I'm an independent ML research engineer affiliated with [eleuther.ai](https://www.eleuther.ai/). Previously, I helped launch Stability AI in the role of Distinguished Engineer, and worked in more conventional Data Scientist roles at Microsoft, Amazon, Fannie Mae, USDOL-OIG, Elder Research, and SoundExchange. A common theme in my work for the last few years has been building tools which making bleeding edge AI research accessible to non-technical creatives. 
 
 Creator/maintainer/curator of https://github.com/pytti-tools -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
 
