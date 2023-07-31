@@ -115,17 +115,62 @@ Some projects I'm currently or recently involved with:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+```
+# Greatest hits
+
+https://github.com/dmarx/bench-warmers/
+https://github.com/dmarx/sd-lazy-wildcards
+https://github.com/dmarx/notebooks
+https://github.com/dmarx/workbench
+https://github.com/dmarx/anthology-of-modern-ml
+https://github.com/dmarx/video-killed-the-radio-star
+https://github.com/dmarx/keyframed
+https://github.com/dmarx/fast-and-simple-dense-retrieval
+https://github.com/dmarx/fasdr-action
+https://github.com/dmarx/awesome-llm-utilities
+https://github.com/dmarx/auto-tagger
+https://github.com/dmarx/the-rest-of-the-fucking-owl
+https://github.com/dmarx/owl-keyframed
+https://github.com/dmarx/zero-shot-intent-classifier
+https://github.com/dmarx/psaw
+https://github.com/dmarx/keyframed_chatgpt
+https://github.com/dmarx/not-a-package-manager
+https://github.com/dmarx/Multi-Modal-Comparators
+https://github.com/dmarx/anthology-of-ml-for-ai-art
+https://github.com/dmarx/pytti-core
+https://github.com/dmarx/cka_pytorch
+https://github.com/dmarx/checkin
+https://github.com/dmarx/debugger
+https://github.com/dmarx/nfpa
+https://github.com/dmarx/enl-supply
+https://github.com/dmarx/supply-chain
+https://github.com/dmarx/Topological-Anomaly-Detection
+https://github.com/dmarx/Reddit_response_to_Trump
+https://github.com/dmarx/data_generation_demo
+https://github.com/dmarx/make_for_datascience
+```
+
 <!--
-**dmarx/dmarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/dmarx/please-copy-me
+https://github.com/dmarx/hey
+https://github.com/dmarx/llm-tools
+https://github.com/dmarx/autoPRv2-sandbox
+https://github.com/dmarx/quorum
+https://github.com/dmarx/draft_coss_policy
+https://github.com/dmarx/seidr
+https://github.com/dmarx/art-director
+https://github.com/dmarx/art-in-a-new-age
+https://github.com/dmarx/clip-auto-organizer
+https://github.com/dmarx/ai-ethics-in-the-wild
+https://github.com/dmarx/lucidity
+https://github.com/dmarx/fine
+https://github.com/dmarx/not-an-nft
+https://github.com/dmarx/sorcerers-apprentice
+https://github.com/dmarx/jax-docker
+https://github.com/dmarx/blog
+https://github.com/dmarx/make_with_ml/tree/main
+https://github.com/dmarx/utils
+https://github.com/dmarx/wiki
+https://github.com/dmarx/redditme
+https://github.com/dmarx/reddit_analytics_overview
+--!>
