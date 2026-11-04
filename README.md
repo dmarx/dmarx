@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi there! I'm David (He/Him) ![Github Stars](https://img.shields.io/github/stars/dmarx?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social) ![Github Followers](https://img.shields.io/github/followers/dmarx?style=social)
 
-https://bsky.app/profile/digthatdata.bsky.social
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)
+https://bsky.app/profile/digthatdata.bsky.social  
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarx)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marx-b0a5bb14/)
 
 I'm passionate about making quality tools that empower AI practitioners and generative artists. 
